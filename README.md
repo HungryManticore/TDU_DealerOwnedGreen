@@ -28,8 +28,9 @@ red = out of stock at this dealer, blue = reserved.
 
 ## Install
 
-Copy `TDU_DealerOwnedGreen.asi` and `TDU_DealerOwnedGreen.ini` into the game's `scripts` folder
-(Ultimate ASI Loader, e.g. `dinput8.dll`).
+* Install the Ultimate ASI Loader (32-bit `dinput.ini`) and place it in the game's root directory.
+* Create a `scripts` folder inside the game's directory. 
+* Copy `TDU_DealerOwnedGreen.asi` and `TDU_DealerOwnedGreen.ini` into the game's `scripts` folder.
 
 ## Build
 
