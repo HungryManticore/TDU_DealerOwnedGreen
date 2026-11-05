@@ -1,0 +1,7 @@
+# build outputs (release binaries are uploaded separately)
+*.asi
+*.dll
+*.obj
+*.lib
+*.exp
+*.log
